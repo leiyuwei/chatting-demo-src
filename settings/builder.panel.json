@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.spriteMapTestForOneAlgo",
+  "platform": "web-desktop",
+  "startScene": "6a36f350-88ce-4dc0-8378-f2dfb6a8d70a",
+  "title": "spriteMapTestForOneAlgo"
+}
